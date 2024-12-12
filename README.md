@@ -153,3 +153,11 @@ Once all clients are connected to the server:
 2. **Private Messaging**: Implement direct messaging between clients.
 3. **Encryption**: Add SSL/TLS encryption for secure communication.
 4. **File Sharing**: Extend the system to allow file sharing between users.
+
+### Application Pictures
+
+![Alt text](Images/Image0.png)
+![Alt text](Images/Image2.png)
+![Alt text](Images/Image3.png)
+![Alt text](Images/Image4.png)
+
