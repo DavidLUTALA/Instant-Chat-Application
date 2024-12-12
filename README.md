@@ -1,6 +1,8 @@
 # Instant-Chat-Application
 This project is an instant messaging application that runs on a local area network (LAN), using a decentralized server. A decentralized architecture will allow users to interact with each other directly, making the system more robust against disconnections and IP address fluctuations.
 
+![Alt text](Images/Image0.png)
+
 ## System Architecture
 
 ### 1. Client-Server Architecture
